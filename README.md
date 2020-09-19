@@ -9,5 +9,13 @@ My Name is Rising Odegua. A CS Grad, Software and Machine Learning Engineer/Data
 - 👯 I’m looking to collaborate on open source tools for data science and machine learning.
 - 💬 Ask me about Machine Learning and Data Science.
 - 📫 How to reach me: Email (risingodegua@gmail.com) [Twitter](https://twitter.com/risingodegua), [Linkedin](https://www.linkedin.com/in/risingdeveloper).
-- I'm looking for new and exciting opportunities. If you're hiring, reach me on risingodegua@gmail.com
+- You can reach me on risingodegua@gmail.com
+
+--------------
+
+- Read my latest technical article on [Medium](https://medium.com/@risingdeveloper)
+
+- Learn More about me on my [website](https://risenw.github.io/risingodegua/)
+
+- Connect with me on [Twitter](https://twitter.com/risingodegua)
 
