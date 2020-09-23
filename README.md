@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Name is Rising Odegua. A CS Grad, Software and Machine Learning Engineer/Data Scientist. I combine my knowledge of software and data science to build data driven products that can solve problems. 
+My Name is Rising Odegua. Software and Machine Learning Engineer/Data Scientist. I combine my knowledge of software and data science to build data driven products that can solve problems. 
 
 **Strong Languages**: Python and JavaScript
   
