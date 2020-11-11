@@ -11,6 +11,10 @@ My Name is Rising Odegua. I am a Software and Machine Learning Engineer. I combi
 
 --------------
 
+Latest Updates:
+
+* I became a [Google Developer Expert in Machine Learning](https://twitter.com/risingodegua/status/1326233747981815810)
+
 My latest writings are:
  * [Deep Dive into ML Models in Production Using Tensorflow Extended (TFX) and Kubeflow](https://neptune.ai/blog/deep-dive-into-ml-models-in-production-using-tfx-and-kubeflow?utm_source=madewithml&utm_medium=post&utm_campaign=blog-deep-dive-into-ml-models-in-production-using-tfx-and-kubeflow)
  * [How to Serve Machine Learning Models with TensorFlow Serving and Docker](https://neptune.ai/blog/how-to-serve-machine-learning-models-with-tensorflow-serving-and-docker)
