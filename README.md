@@ -4,7 +4,7 @@ My Name is Rising Odegua. I am a Software and Machine Learning Engineer. I combi
 
 **Strong Languages**: Python and JavaScript
   
-- 🔭 I’m currently building and maintaining open source data tools like on [Danfojs](https://github.com/opensource9ja/danfojs), [Datajs](https://github.com/datopian/data.js), [Datapub](https://github.com/datopian/datapub) and [Datasist](https://github.com/risenW/datasist).
+- 🔭 I’m currently building and maintaining open source data tools like on [Danfojs](https://github.com/opensource9ja/danfojs), [Datajs](https://github.com/frictionlessdata/frictionless-js), [Datapub](https://github.com/datopian/datapub), [Datasist](https://github.com/risenW/datasist) etc.
 - 👯 I’m looking to collaborate on open source tools for data science and machine learning.
 - 💬 Ask me about OSS, Software Engineering, Machine Learning and Data Science.
 - 📫 How to reach me: Email (risingodegua@gmail.com) [Twitter](https://twitter.com/risingodegua), [Linkedin](https://www.linkedin.com/in/risingdeveloper).
