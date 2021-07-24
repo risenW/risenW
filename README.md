@@ -2,7 +2,7 @@
 
 My Name is Rising Odegua. I am Full Stack Software Engineer. I combine my knowledge of software and data science to build data driven products that can solve problems. 
 
-**Strong Languages**: Python and JavaScript
+**Strong Languages**: JavaScript, Python and Typescript
   
 - 🔭 I’m currently building and maintaining open source data tools like on [Danfojs](https://github.com/opensource9ja/danfojs), [Datajs](https://github.com/frictionlessdata/frictionless-js), [Datapub](https://github.com/datopian/datapub), [Datasist](https://github.com/risenW/datasist) etc.
 - 👯 I’m looking to collaborate on open source tools for data science and machine learning.
