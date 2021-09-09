@@ -12,6 +12,7 @@ My Name is Rising Odegua. I am Full Stack Software Engineer. I combine my knowle
 --------------
 
 Latest Updates:
+* I co-authored a book titled "[Building Data Driven Applications With Danfo.js](https://www.amazon.com/Building-Data-Driven-Applications-Danfo-js/dp/1801070857)"
 * I became a [Github Star](https://stars.github.com/profiles/risenW/)
 * I became a [Google Developer Expert in Machine Learning](https://developers.google.com/community/experts/directory/profile/profile-rising-odegua)
 
