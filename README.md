@@ -7,7 +7,7 @@ My Name is Rising Odegua. I am Full Stack Software Engineer. I combine my knowle
 - 🔭 I’m currently building and maintaining open source data tools like on [Danfojs](https://github.com/opensource9ja/danfojs), [Dnotebook](https://github.com/javascriptdata/dnotebook), [Datajs](https://github.com/frictionlessdata/frictionless-js), [Datapub](https://github.com/datopian/datapub), [Datasist](https://github.com/risenW/datasist) etc.
 - 👯 I’m looking to collaborate on open source tools for data science and machine learning.
 - 💬 Ask me about OSS, Software Engineering, Machine Learning and Data Science.
-- 📫 How to reach me: Email (risingodegua@gmail.com) [Twitter](https://twitter.com/risingodegua), [Linkedin](https://www.linkedin.com/in/risingdeveloper).
+- 📫 How to reach me: [Twitter](https://twitter.com/risingodegua), [Linkedin](https://www.linkedin.com/in/risingdeveloper).
 
 --------------
 
