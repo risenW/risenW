@@ -23,6 +23,6 @@ My latest writings are:
 
 - See more of my technical articles on [Medium](https://medium.com/@risingdeveloper)
 
-- Learn more about on my [website](https://risenw.github.io/risingodegua/)
+- Learn more about on my [website](https://risingodegua.com/)
 
 [![Rising's github stats](https://github-readme-stats.vercel.app/api?username=risenW&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/risenW/)
