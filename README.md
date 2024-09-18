@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Name is Rising Odegua. I am Full Stack Software Engineer. I combine my knowledge of software and data science to build data driven products that can solve problems. 
+My Name is Rising Odegua. I am Full Stack Software Engineer. I combine my knowledge of software and data science to build scalable data driven products.
 
 **Strong Languages**: JavaScript, Python, and Typescript
   
